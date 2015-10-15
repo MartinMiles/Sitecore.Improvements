@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense">
+  <DeviceRendering>
+
+    <Border ID="$ID" Click="$Click" DblClick="$DblClick" Background='${MainUtil.GetString($Background, "transparent")}'>
+      <GridPanel Columns="2" Width="100%">
+
+        <ThemedImage Src="$Icon" Width="32" Height="32" GridPanel.Style="padding:2px 0px 2px 2px"/>
+
+        <Border GridPanel.Width="100%" GridPanel.Style="padding:2px 2px 2px 10px">
+          <Border><b><Literal Text="$Header" onclick="window.open('/sitecore/shell/Applications/Content%20Editor.aspx?fo=$HeaderID', 'myWin', 'width=800,height=600');" style="text-decoration: underline;"/></b></Border>
+          <Literal Text="$Placeholder"/>
+          <Border><Literal Text="$DataSourcePath" onclick="window.open('/sitecore/shell/Applications/Content%20Editor.aspx?fo=$DataSourceID', 'myWin', 'width=800,height=600');" style="text-decoration: underline;" /></Border>
+        </Border>
+      
+      </GridPanel>             
+    </Border>
+  
+  </DeviceRendering>
+</control>

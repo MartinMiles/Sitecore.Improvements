@@ -1,0 +1,119 @@
+﻿.sc-globalHeader {
+    color: #ffffff;
+    background-color: #2b2b2b;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+
+.sc-globalHeader ~ div, .sc-globalHeader ~ table {
+    padding-top: 30px;
+}
+
+    .sc-globalHeader ~ .scPopup {
+        padding-top: 0;
+    }
+
+    .sc-globalHeader ~ div > .scWorkboxContentContainer {
+        margin-top: 130px;
+    }
+
+     .lang_ja_jp .sc-globalHeader ~ div > .scWorkboxContentContainer {
+        margin-top: 140px;
+    }
+
+
+    .sc-globalHeader ~ div > .DesktopArea {
+        margin-top: 30px;
+    }
+
+    .sc-globalHeader ~ div > .scWizardPageContainer {
+        top: 30px;
+    }
+
+.sc-globalHeader-content {
+    height: 100%;
+    font-size: 0;
+}
+
+.col2 {
+    padding: 0 5px;
+    font-size: 12px;
+}
+
+.sc-globalHeader-startButton {
+}
+
+.sc-global-logo {
+    display: block;
+    margin-top: 4px;
+    height: 22px;
+    width: 22px;
+    background: url("/sitecore/shell/Themes/Standard/Images/global_logo.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+}
+
+    .sc-global-logo:hover {
+        background-position: left bottom;
+        text-decoration: none;
+    }
+
+    .sc-global-logo.medium {
+        margin-top: 8px;
+        width: 33px;
+        height: 33px;
+    }
+
+.sc-globalHeader-navigationToggler {
+}
+
+.sc-globalHeader-loginInfo {
+    position: absolute;
+    right: 15px;
+}
+
+.sc-accountInformation {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+
+    .sc-accountInformation .logout {
+        color: #969696;
+    }
+
+        .sc-accountInformation .logout:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+ul.sc-accountInformation li:after {
+    content: "|";
+    padding-left: 15px;
+    padding-right: 13px;
+    display: inherit;
+}
+
+ul.sc-accountInformation li:last-child:after {
+    content: "";
+    padding-left: 15px;
+    padding-right: 0;
+    display: inherit;
+}
+
+ul.sc-accountInformation li {
+    display: inline-block;
+    text-decoration: none;
+    cursor: auto;
+}
+
+
+    ul.sc-accountInformation li img {
+        margin-left: 5px;
+        vertical-align: middle;
+    }

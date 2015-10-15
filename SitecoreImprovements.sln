@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceEditorShortcuts", "DeviceEditorShortcuts\DeviceEditorShortcuts.csproj", "{99E949AC-5B13-4ED8-A051-9793F651726C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutDetailsShortcuts", "LayoutDetailsShortcuts\LayoutDetailsShortcuts.csproj", "{D1959CD6-5312-419B-B7DB-A3F4F049B0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StylesAdjustments", "StylesAdjustments\StylesAdjustments.csproj", "{F93C38F5-BEEF-4865-B54C-585DC2E81185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresenationGutter", "PresentationExistsGutter\PresenationGutter.csproj", "{A5E95DB7-F4B5-4289-ACE3-6675D334189D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".SitecorePackages", ".SitecorePackages", "{58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeviceEditorShortcuts", "DeviceEditorShortcuts", "{C6D15B71-5759-4015-B030-B06DAB6700E0}"
+	ProjectSection(SolutionItems) = preProject
+		.SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0-antipackage.zip = .SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0-antipackage.zip
+		.SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0.zip = .SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LayoutDetailsShortcuts", "LayoutDetailsShortcuts", "{BFBB39A4-9101-4220-8D10-1565849AC176}"
+	ProjectSection(SolutionItems) = preProject
+		.SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1-antipackage.zip = .SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1-antipackage.zip
+		.SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1.zip = .SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationExistsGutter", "PresentationExistsGutter", "{2AEDEBB2-411B-493F-B3E5-0B1841B48EB3}"
+	ProjectSection(SolutionItems) = preProject
+		.SitecorePackages\PresentationExistsGutter\Sitecore Improvements - Presentation Exists Gutter-1.0.zip = .SitecorePackages\PresentationExistsGutter\Sitecore Improvements - Presentation Exists Gutter-1.0.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StylesAdjustments", "StylesAdjustments", "{87D5BF41-1292-4749-B059-606FD713B145}"
+	ProjectSection(SolutionItems) = preProject
+		.SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2-ANTI-PACKAGE.zip = .SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2-ANTI-PACKAGE.zip
+		.SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2.zip = .SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E949AC-5B13-4ED8-A051-9793F651726C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E949AC-5B13-4ED8-A051-9793F651726C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E949AC-5B13-4ED8-A051-9793F651726C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E949AC-5B13-4ED8-A051-9793F651726C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1959CD6-5312-419B-B7DB-A3F4F049B0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1959CD6-5312-419B-B7DB-A3F4F049B0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1959CD6-5312-419B-B7DB-A3F4F049B0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1959CD6-5312-419B-B7DB-A3F4F049B0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93C38F5-BEEF-4865-B54C-585DC2E81185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93C38F5-BEEF-4865-B54C-585DC2E81185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93C38F5-BEEF-4865-B54C-585DC2E81185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93C38F5-BEEF-4865-B54C-585DC2E81185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E95DB7-F4B5-4289-ACE3-6675D334189D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E95DB7-F4B5-4289-ACE3-6675D334189D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E95DB7-F4B5-4289-ACE3-6675D334189D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E95DB7-F4B5-4289-ACE3-6675D334189D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6D15B71-5759-4015-B030-B06DAB6700E0} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
+		{BFBB39A4-9101-4220-8D10-1565849AC176} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
+		{2AEDEBB2-411B-493F-B3E5-0B1841B48EB3} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
+		{87D5BF41-1292-4749-B059-606FD713B145} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
+	EndGlobalSection
+EndGlobal
