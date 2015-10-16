@@ -2594,7 +2594,7 @@ li.scWizardBullet {
 input[type="text"][readonly].scComboboxEdit {
   border-top-right-radius: 0px;
   border-bottom-right-radius: 0px;
-  height: 35px;
+  height: 26px;
   background: white;
   border-color: #cccccc;
   box-shadow: none !important;
@@ -2603,7 +2603,7 @@ input[type="text"][readonly].scComboboxEdit {
 .scComboboxDropDown {
   margin: 0;
   background-color: #fff;
-  padding: 14px 5px;
+  padding: 6px 5px;
   border: 1px solid #ccc;
   border-left: none;
   border-radius: 2px;
