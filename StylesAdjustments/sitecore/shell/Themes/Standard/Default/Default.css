@@ -1464,14 +1464,13 @@ a.scHyperlinkButton {
   cursor: default;
   display: block;
   overflow: hidden;
-  margin: 5px 25px 15px 5px;
-  padding: 35px 5px 0 5px;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 0 5px; 
   text-align: center;
   text-overflow: ellipsis;
   white-space: nowrap;
-  vertical-align: top;
-  width: 128px;
-  height: 128px;
+  text-align: left; vertical-align: middle;
+  line-height: 40px; width: 156px; height: 52px; 
   float: left;
   border: 1px solid #e3e3e3;
   -moz-box-sizing: border-box;
@@ -1482,18 +1481,18 @@ a.scHyperlinkButton {
     background: #e3e3e3;
   }
 
-.scListviewItemIcons_Selected {
+  .scListviewItemIcons_Selected {
   background: #aadbee;
   color: #46448D;
   cursor: default;
   display: block;
   overflow: hidden;
-  margin: 5px 25px 15px 5px;
-  padding: 35px 5px 0 5px;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 0 5px; 
   text-align: center;
   text-overflow: ellipsis;
   white-space: nowrap;
-  vertical-align: top;
+  text-align: left; vertical-align: middle;
   width: 128px;
   height: 128px;
   float: left;
@@ -1504,7 +1503,8 @@ a.scHyperlinkButton {
 
 .scListviewViewIconsIcon {
   cursor: default;
-  padding-bottom: 4px;
+  /*padding-bottom: 4px;*/
+  float: left; padding-top: 5px; padding-right: 5px; 
 }
 
 .scListviewItemList {
@@ -1532,7 +1532,7 @@ a.scHyperlinkButton {
   padding: 2px;
   text-overflow: ellipsis;
   white-space: nowrap;
-  width: 150px;
+  line-height: 40px; width: 156px; height: 52px; 
   float: left;
 }
 

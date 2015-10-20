@@ -13,27 +13,42 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresenationGutter", "Presen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".SitecorePackages", ".SitecorePackages", "{58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeviceEditorShortcuts", "DeviceEditorShortcuts", "{C6D15B71-5759-4015-B030-B06DAB6700E0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Device Editor Shortcuts", "Device Editor Shortcuts", "{C6D15B71-5759-4015-B030-B06DAB6700E0}"
 	ProjectSection(SolutionItems) = preProject
-		.SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0-antipackage.zip = .SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0-antipackage.zip
-		.SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0.zip = .SitecorePackages\DeviceEditorShortcuts\DeviceEditorShortcuts-1.0.zip
+		.SitecorePackages\Device Editor Shortcuts\Device Editor Shortcuts 1.0.zip = .SitecorePackages\Device Editor Shortcuts\Device Editor Shortcuts 1.0.zip
+		.SitecorePackages\Device Editor Shortcuts\DeviceEditorShortcuts-1.0-ANTI-PACKAGE.zip = .SitecorePackages\Device Editor Shortcuts\DeviceEditorShortcuts-1.0-ANTI-PACKAGE.zip
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LayoutDetailsShortcuts", "LayoutDetailsShortcuts", "{BFBB39A4-9101-4220-8D10-1565849AC176}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layout Details Shortcuts", "Layout Details Shortcuts", "{BFBB39A4-9101-4220-8D10-1565849AC176}"
 	ProjectSection(SolutionItems) = preProject
-		.SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1-antipackage.zip = .SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1-antipackage.zip
-		.SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1.zip = .SitecorePackages\LayoutDetailsShortcuts\LayoutDetailsShortcuts-1.1.zip
+		.SitecorePackages\Layout Details Shortcuts\Layout Details Shortcuts 1.1.zip = .SitecorePackages\Layout Details Shortcuts\Layout Details Shortcuts 1.1.zip
+		.SitecorePackages\Layout Details Shortcuts\LayoutDetailsShortcuts-1.1-ANTI-PACKAGE.zip = .SitecorePackages\Layout Details Shortcuts\LayoutDetailsShortcuts-1.1-ANTI-PACKAGE.zip
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationExistsGutter", "PresentationExistsGutter", "{2AEDEBB2-411B-493F-B3E5-0B1841B48EB3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Exists Gutter", "Presentation Exists Gutter", "{2AEDEBB2-411B-493F-B3E5-0B1841B48EB3}"
 	ProjectSection(SolutionItems) = preProject
-		.SitecorePackages\PresentationExistsGutter\Sitecore Improvements - Presentation Exists Gutter-1.0.zip = .SitecorePackages\PresentationExistsGutter\Sitecore Improvements - Presentation Exists Gutter-1.0.zip
+		.SitecorePackages\Presentation Exists Gutter\Presentation Exists Gutter 1.0.zip = .SitecorePackages\Presentation Exists Gutter\Presentation Exists Gutter 1.0.zip
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StylesAdjustments", "StylesAdjustments", "{87D5BF41-1292-4749-B059-606FD713B145}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Styles Adjustments", "Styles Adjustments", "{87D5BF41-1292-4749-B059-606FD713B145}"
 	ProjectSection(SolutionItems) = preProject
-		.SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2-ANTI-PACKAGE.zip = .SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2-ANTI-PACKAGE.zip
-		.SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2.zip = .SitecorePackages\StylesAdjustments\Sitecore 8 Style Adjustments-1.2.zip
+		.SitecorePackages\Styles Adjustments\Sitecore 8 Style Adjustments-1.2-ANTI-PACKAGE.zip = .SitecorePackages\Styles Adjustments\Sitecore 8 Style Adjustments-1.2-ANTI-PACKAGE.zip
+		.SitecorePackages\Styles Adjustments\Sitecore 8 Style Adjustments-1.2.zip = .SitecorePackages\Styles Adjustments\Sitecore 8 Style Adjustments-1.2.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Publish Item Ribbon Icon", "Publish Item Ribbon Icon", "{EEE146EA-7AEF-445B-A990-F0F3F4A731C1}"
+	ProjectSection(SolutionItems) = preProject
+		.SitecorePackages\Publish Item Ribbon Icon\Publish Item Ribbon Icon 1.0.zip = .SitecorePackages\Publish Item Ribbon Icon\Publish Item Ribbon Icon 1.0.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Set Presentation Context Menu Item", "Set Presentation Context Menu Item", "{55D9AB6E-0127-4C27-859B-7C342D06BC8D}"
+	ProjectSection(SolutionItems) = preProject
+		.SitecorePackages\Set Presentation Context Menu Item\Set Presentation Context Menu Item 1.0.zip = .SitecorePackages\Set Presentation Context Menu Item\Set Presentation Context Menu Item 1.0.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Publish Item Context Menu", "Publish Item Context Menu", "{785A5824-8793-4338-AAE4-BF7AC33D64C7}"
+	ProjectSection(SolutionItems) = preProject
+		.SitecorePackages\Publish Item Context Menu\Publish Item Context Menu-1.0.zip = .SitecorePackages\Publish Item Context Menu\Publish Item Context Menu-1.0.zip
 	EndProjectSection
 EndProject
 Global
@@ -67,5 +82,8 @@ Global
 		{BFBB39A4-9101-4220-8D10-1565849AC176} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
 		{2AEDEBB2-411B-493F-B3E5-0B1841B48EB3} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
 		{87D5BF41-1292-4749-B059-606FD713B145} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
+		{EEE146EA-7AEF-445B-A990-F0F3F4A731C1} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
+		{55D9AB6E-0127-4C27-859B-7C342D06BC8D} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
+		{785A5824-8793-4338-AAE4-BF7AC33D64C7} = {58B8E0DB-0DC1-4D14-BA02-8F90F47C51C0}
 	EndGlobalSection
 EndGlobal

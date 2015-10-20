@@ -1,0 +1,16 @@
+.scListviewItemIcons {
+    border: 1px solid #e3e3e3;
+    box-sizing: border-box;
+    cursor: default;
+    display: block;
+    float: left;
+    height: 52px;
+    margin: 5px 15px 10px 5px;
+    overflow: hidden;
+    padding: 10px 5px 0;
+    text-align: center;
+    text-overflow: ellipsis;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 140px;
+}
