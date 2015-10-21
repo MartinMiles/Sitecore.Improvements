@@ -1493,8 +1493,7 @@ a.scHyperlinkButton {
   text-overflow: ellipsis;
   white-space: nowrap;
   text-align: left; vertical-align: middle;
-  width: 128px;
-  height: 128px;
+  line-height: 40px; width: 156px; height: 52px;
   float: left;
   border: 1px solid #e3e3e3;
   -moz-box-sizing: border-box;
