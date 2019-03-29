@@ -23,4 +23,10 @@ Content:
 
 7. Set Presentation Context Menu Item
 
+8. LaunchPad icon for Unicorn available to admin users only
+   http://blog.martinmiles.net/post/adding-unicorn-icon-to-sitecore-launchpad
+
+9. LaunchPad icon for Show Config available to admin users only
+   http://blog.martinmiles.net/post/adding-show-config-icon-to-sitecore-launchpad
+
 For more details, please see individual component's README.md file.
