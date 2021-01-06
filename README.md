@@ -29,4 +29,8 @@ Content:
 9. LaunchPad icon for Show Config available to admin users only
    http://blog.martinmiles.net/post/adding-show-config-icon-to-sitecore-launchpad
 
+10. Expand Collapse buttons for Experience Editor
+   https://blog.martinmiles.net/post/productivity-improvement-implementing-expand-all-and-collapse-all-buttons-to-content-editor
+
+
 For more details, please see individual component's README.md file.
