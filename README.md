@@ -5,7 +5,7 @@ and bring some highly productive but missing functionality.
 
 Content:
 
-1. Sitecore Styles Adjustments(both 8.0 and 8.1)
+1. Sitecore Styles Adjustments(works for versions 8.0+)
    http://blog.martinmiles.net/post/fixing-ugly-default-sitecore-8-styles-from-huge-elements-padding-spacings-and-few-more-improvements
 
 2. Layout Details Shortcuts
@@ -33,4 +33,4 @@ Content:
    https://blog.martinmiles.net/post/productivity-improvement-implementing-expand-all-and-collapse-all-buttons-to-content-editor
 
 
-For more details, please see individual component's README.md file.
+For more details, please see README.md file at individual component's folder.
